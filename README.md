@@ -8,6 +8,7 @@ Active Directory Configuration on a Windows Server as the Domain Controller
 
 - <b>VMWare Workstation</b>
   - <b>Windows Server 2019</b>
+  - <b>Windows 10</b>
   - <b>Kali Linux</b>
 
 <h2>Program:</h2>
