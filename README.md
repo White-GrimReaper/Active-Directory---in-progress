@@ -1,4 +1,4 @@
-<h1>Active Directory (in-progress)</h1>
+<h1>Active Directory</h1>
 
 <h2>Description</h2>
 Active Directory Configuration on a Windows Server as the Domain Controller
